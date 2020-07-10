@@ -10,7 +10,6 @@ def get_indeed_url(country):
 
 
 
-
 class IndeedQueryManager:
     origin_url = 'https://www.indeed.in/'
 
